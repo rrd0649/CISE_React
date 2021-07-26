@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Agile is about Values and Principles
+          Juwon & Jinsung
         </a>
       </header>
     </div>
